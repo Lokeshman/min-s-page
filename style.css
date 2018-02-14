@@ -1,0 +1,17 @@
+.wrap {
+    background-color: #d3f1f9;
+}
+.header-search{
+    position: absolute;
+    left: 5%;
+    top: 10%;
+}
+.image-search {
+    float:left;    
+}
+.image-logo{
+    position: relative;
+}
+.image-price{
+    position: absolute;
+}
