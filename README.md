@@ -1,0 +1,2 @@
+# min-s-page
+Template 
