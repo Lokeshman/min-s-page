@@ -1,5 +1,7 @@
 .wrap {
     background-color: #d3f1f9;
+    height: 300px;
+    width: auto;
 }
 .header-search{
     position: absolute;
